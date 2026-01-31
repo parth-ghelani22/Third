@@ -1,0 +1,10 @@
+GitHub helps you save code, track changes, collaborate with others, and build software like a professional.
+
+GitHub is a platform where people store, track, and collaborate on code.
+Think of it as:
+
+Google Drive for code
+A time machine for your project
+A collaboration hub for developers
+
+It’s built on Git, which is a version control system that tracks changes in files.
